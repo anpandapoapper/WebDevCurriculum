@@ -1,1 +1,57 @@
+
+
+body {
+	height: 100vh;
+	background-image: url("http://cfile204.uf.daum.net/image/247FD84D52B025F8025BAE");
+	background-size: 100% 100%;
+}
+
+.icon {
+	width: 50px;
+	height: 70px;
+	padding: 5px;
+	position: absolute;
+}
+
+.icon img {
+	width: 40px;
+	height: 40px;
+	padding: 5px;
+}
+
+
+.icon p {
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+	margin: 0;
+}
+
+.window {
+	width: 300px;
+	height: 237px;
+	position: absolute;
+	background-image: url("http://www.zhieng.com/wordpress/wp-content/uploads/2015/10/Screenshot-2015-10-14-01.58.37-300x237.png");
+}
+
+.winsow p {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 10px;
+	left: 5px;
+	color: white;
+	background-color: black;
+}
+
+.window button {
+	width: 16px;
+	height: 8px;
+	position: absolute;
+	top: 1px;
+	left: 280px;
+	padding: 0;
+	background-color: transparent;
+	border: none;
+}
 /* TODO: 자유롭게 바탕화면 시스템의 CSS를 만들어 보세요! */
